@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#replace "TKTKTK" string where appropriate
+
 import httplib, urllib, sys
 
 title = "" #"Download of " + sys.argv[3] + " "
